@@ -1,4 +1,4 @@
-# DECODING C++ 💻
+# C++ 💻
 
 Welcome! This repository contains all the C++ code I've written while learning the language.  
 It includes exercises, small projects, experiments, and notes gathered along my C++ journey.
@@ -44,4 +44,4 @@ but suggestions, tips, or learning resources are always welcome!
 
 DEV  
 
-Created by [syncdecodes](https://github.com/syncdecodes)
+Created by [imdevvx](https://github.com/imdevvx)
