@@ -60,6 +60,7 @@ we can write one function that can accept and return any data type
 
 template <typename T, typename U>
 
+// auto means: Let the compiler automatically determine the data type
 auto myMax(T x, U y)
 {
     return (x > y) ? x : y;
