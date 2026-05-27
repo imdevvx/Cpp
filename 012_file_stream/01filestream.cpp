@@ -39,7 +39,8 @@ int main()
     // fin.close();
 
 
-    fstream file("demo3.txt", ios::out); // open for writing
+    fstream file;
+    file.open("demo3.txt", ios::out); // open for writing
     file << "Hello C++ whats up";
     file.close();
 
